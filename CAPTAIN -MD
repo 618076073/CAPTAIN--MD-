@@ -1,0 +1,3 @@
+git remote add origin https://github.com/618076073/CAPTAIN--MD-.git
+git branch -M main
+git push -u origin main￼Enter
